@@ -23,6 +23,12 @@ when we select any language value it will trigger and set shortName Or name1 and
 
 ![image](https://user-images.githubusercontent.com/40827670/217750397-494e4d5f-ec95-46e3-b1f5-8f742b1ad859.png)
 
-NOW WE WROTE 1 VALUE ON LANGUAGE FIELD DIDN'T CLICK OUTSIDE THE LANGUAGE NNOW
+NOW WE WROTE 1 VALUE ON LANGUAGE FIELD DIDN'T CLICK OUTSIDE THE LANGUAGE NOW
+
+![image](https://user-images.githubusercontent.com/40827670/217751337-014b9fcf-5732-48eb-91dc-0a431acecb29.png)
+now we pressed 1 and exited that fied means it shown NDC cause we selected 1 in langauge field
+
+![image](https://user-images.githubusercontent.com/40827670/217751456-28c84c7c-3f18-4aec-bdd8-f962be68eec3.png)
+NOW WE SELECT ANOTHER VALUE IN LANGUAGE IN LANGUAGE FIELD IT MEANS IT WILL SHOW "ALI" on shortName
 
 
