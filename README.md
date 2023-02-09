@@ -21,3 +21,6 @@ and class name we wrote same as java class name and same as package do it and th
 
 when we select any language value it will trigger and set shortName Or name1 and language field on there we set attribe as for Hot.Field
 
+![image](https://user-images.githubusercontent.com/40827670/217750397-494e4d5f-ec95-46e3-b1f5-8f742b1ad859.png)
+
+
