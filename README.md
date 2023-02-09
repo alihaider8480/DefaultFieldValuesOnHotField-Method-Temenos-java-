@@ -23,4 +23,6 @@ when we select any language value it will trigger and set shortName Or name1 and
 
 ![image](https://user-images.githubusercontent.com/40827670/217750397-494e4d5f-ec95-46e3-b1f5-8f742b1ad859.png)
 
+NOW WE WROTE 1 VALUE ON LANGUAGE FIELD DIDN'T CLICK OUTSIDE THE LANGUAGE NNOW
+
 
